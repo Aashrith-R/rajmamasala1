@@ -1,0 +1,58 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: White;
+}
+
+.cd-logo {
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #499dfc;
+  background-size: cover;
+  min-height: 100%;
+}
+
+.cd-logo {
+  background-image: url("/Users/Admin/Desktop/Rajma Masala/pics/rajma.jpg");
+  min-height: 100%;
+  background-size: auto;
+}
+
+h2, h3 {
+  letter-spacing: 5px;
+  font: 20px "Lato", sans-serif;
+  color: white;
+  text-align:center;
+}
+
+ul{
+   display: inline;
+   padding-left: 200px;
+  
+}
+
+.textSection {
+  background-color:#499dfc;
+  padding:50px 80px;
+
+  
+}
+.kitchen-equipment {
+  background-image: url("/Users/Admin/Desktop/Rajma Masala/pics/rajma.jpg");
+}
+.cd-logo, .kitchen-equipment {
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #642580;
+  background-size: cover;
+  min-height: 100%;
+  background-attachment: fixed;
+  }
+  @media only screen and (max-device-width: 1024px) {
+    .cd-logo, .layer-cake, .kitchen-equipment, .cake-ingredients, .bowl-of-cakemix, .cake-in-oven, .decorated-cake {
+        background-attachment: scroll;
+    }
+}
