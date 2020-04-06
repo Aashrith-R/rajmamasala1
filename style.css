@@ -15,7 +15,7 @@ body, html {
 }
 
 .cd-logo {
-  background-image: url("/Users/Admin/Desktop/Rajma Masala/pics/rajma.jpg");
+  background-image: url("https://i2.wp.com/flavouroma.com/wp-content/uploads/2018/11/restaurant-style-rajma-masala.jpg?w=560&ssl=1");
   min-height: 100%;
   background-size: auto;
 }
@@ -40,7 +40,7 @@ ul{
   
 }
 .kitchen-equipment {
-  background-image: url("/Users/Admin/Desktop/Rajma Masala/pics/rajma.jpg");
+  background-image: url("https://i2.wp.com/flavouroma.com/wp-content/uploads/2018/11/restaurant-style-rajma-masala.jpg?w=560&ssl=1");
 }
 .cd-logo, .kitchen-equipment {
   position: relative;
