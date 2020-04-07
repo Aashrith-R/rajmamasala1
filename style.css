@@ -16,7 +16,6 @@ body, html {
 
 .cd-logo {
   background-image: url("/pics/rajma.jpg");
-  min-height: 100%;
   background-size: auto;
 }
 
@@ -41,8 +40,6 @@ ul{
 }
 .kitchen-equipment {
   background-image: url("/pics/utensils.jpg");
-  min-height: 100%;
-  background-size: auto;
 }
 .cd-logo, .kitchen-equipment {
   position: relative;
@@ -50,7 +47,7 @@ ul{
   background-repeat: no-repeat;
   background-color: #642580;
   background-size: cover;
-  min-height: 100%;
+  min-height: 70%;
   background-attachment: fixed;
   }
   @media only screen and (max-device-width: 1024px) {
