@@ -5,6 +5,7 @@ body, html {
   color: White;
 }
 
+
 .cd-logo {
   background-image: url("/pics/rajma.jpg");
   background-size: auto;
@@ -30,7 +31,7 @@ ul{
   
 }
 .kitchen-equipment {
-  background-image: url("/pics/utensils.jpg");
+  background-image: url("/pics/rajma.jpg");
 }
 .cd-logo, .kitchen-equipment {
   position: relative;
