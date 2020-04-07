@@ -41,6 +41,8 @@ ul{
 }
 .kitchen-equipment {
   background-image: url("/pics/utensils.jpg");
+  min-height: 100%;
+  background-size: auto;
 }
 .cd-logo, .kitchen-equipment {
   position: relative;
