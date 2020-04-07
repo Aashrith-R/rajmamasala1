@@ -6,15 +6,6 @@ body, html {
 }
 
 .cd-logo {
-  position: relative;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: #499dfc;
-  background-size: cover;
-  min-height: 100%;
-}
-
-.cd-logo {
   background-image: url("/pics/rajma.jpg");
   background-size: auto;
 }
